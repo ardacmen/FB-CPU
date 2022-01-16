@@ -14,6 +14,6 @@ if you want to contact with me, you can use this linkedin profile;
 
 https://www.linkedin.com/in/arda-emin-%C3%A7imen-54b72620b/
 
-
+Have Fun with our verilog code
 
 
